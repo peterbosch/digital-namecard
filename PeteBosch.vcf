@@ -2,19 +2,26 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Bosch, Peter C
 N:Bosch;Peter;C;;
+NICKNAME:Pete
 EMAIL;TYPE=INTERNET;TYPE=WORK:peter.bosch@rotary6270.org
 EMAIL;TYPE=INTERNET;TYPE=HOME:Peter@Bosch.Net
 TEL;TYPE=CELL:(262) 893-5400
 item1.TEL:(262) 893-5400
 item1.X-ABLabel:Preferred
-item2.TEL:(262) 706-1919
-item2.X-ABLabel:googleVoice
 ADR;TYPE=HOME:;;SS33W35501 Meadow Trail;Dousman;WI;53118;US;SS33W35501 Mead
  ow Trail\nDousman\, WI 53118\nUS
-item3.ORG:Rotary District 6270
+item2.ORG:Rotary District 6270
+item2.X-ABLabel:
+item3.TITLE:District Governor 2024-2025
 item3.X-ABLabel:
-item4.TITLE:District Governor 2024-2025
-item4.X-ABLabel:
+item4.URL:https\://rotary6270.org/
+item4.X-ABLabel:District Website
+NOTE:The Four Way Test:     Is it the truth?     Is it fair to all concerne
+ d?     Will it build goodwill and better friendships?     Will it be benef
+ icial to all concerned?\nOur Causes: Promoting peace\; Fighting disease\; 
+ Providing clean water\, sanitation and hygeine\; Saving mothers and childr
+ en\; Supporting education\; Growing local economies\; Protecting the envir
+ onment
 PHOTO:https://lh3.googleusercontent.com/contacts/ABsqplujqpvpRjUi5oIGbagXg0
  yuvV7PR24KasyhxlTkcSLyFB2WRFGU
 CATEGORIES:Imported on 10/13,Waukesha Rotary,friends,myContacts
